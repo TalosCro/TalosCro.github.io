@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.taloscro.twa",
+        "sha256_cert_fingerprints": ["61:B2:B8:5A:B1:08:D9:B1:CF:E5:72:03:60:1B:E3:7D:EB:DB:93:F1:49:72:88:B8:2B:F0:81:18:10:45:E8:70"]
+      }
+    }]
